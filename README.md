@@ -1,0 +1,2 @@
+# introductorycomponent
+Introductory component
